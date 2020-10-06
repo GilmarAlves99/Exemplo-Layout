@@ -1,2 +1,4 @@
-# Exemplo-Layout
-Exemplo de layout com Bootstrap  _  Exercício do meu curso Técnico. 
+Oque você verá aqui?
+
+• Aqui temos uma página inicial comum , e nela foi feita um layout com bootstrap !!</br>
+• Exercicio do meu curso.
